@@ -28,6 +28,7 @@ public class Login_feature_step {
 	@When("^NewUser enters \"(.*?)\" and \"(.*?)\"$")
 	public void user_enters_and(String uname, String password) throws InterruptedException {
 		BasicConfigurator.configure();
+		//Initialization
 		PageFactory.initElements(driver, Login_page_object.class);
 		logger.info("Clicking on the Child Window");
 		System.out.println("Username"+uname);

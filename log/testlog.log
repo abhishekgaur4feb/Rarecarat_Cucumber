@@ -1451,3 +1451,68 @@
 2018-01-24 17:31:17,644 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/f5c468df-0975-4613-917f-ae99b3f7efa7/l82
 2018-01-24 17:31:17,644 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 3913milliseconds
 2018-01-24 17:31:17,645 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-25 13:05:30,554 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-01-25 13:05:30,609 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-01-25 13:05:32,858 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-01-25 13:05:32,859 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-01-25 13:05:33,084 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-01-25 13:05:35,085 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-01-25 13:05:39,338 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-01-25 13:05:39,339 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-01-25 13:05:41,548 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-01-25 13:05:41,549 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-01-25 13:05:45,812 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-01-25 13:05:45,952 - Step_Defination.Diamond_Search -INFO - Test start Time1516865745952
+2018-01-25 13:05:48,322 - Step_Defination.Diamond_Search -INFO - Url Link Clicked-->https://www.rarecarat.com/c/766da160-06c1-4fb6-b9dd-fbb1444a4403/l82
+2018-01-25 13:05:48,323 - Step_Defination.Diamond_Search -INFO - Total Search Time taken: 2371milliseconds
+2018-01-25 13:05:48,324 - Step_Defination.Diamond_Search -INFO - Search Successful
+2018-01-25 13:05:59,114 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-01-25 13:05:59,119 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-01-25 13:06:04,726 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username ans password
+2018-01-25 13:06:04,731 - Step_Defination.Login_feature_step -INFO - User logged in Successfully
+2018-01-25 13:06:15,741 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-01-25 13:06:15,743 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-01-25 13:06:16,066 - Step_Defination.Login_feature_step -INFO - Signup by RareCarat Clicked Successfully
+2018-01-25 13:06:16,143 - Step_Defination.Login_feature_step -INFO - Signup for New User Clicked Successfully
+2018-01-25 13:06:21,808 - Step_Defination.Login_feature_step -INFO - All Entries given
+2018-01-25 13:06:22,929 - Step_Defination.Login_feature_step -INFO - Finally clicked Signup
+2018-01-25 15:16:35,171 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-01-25 15:16:35,201 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-01-25 15:16:41,438 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username ans password
+2018-01-25 15:38:18,610 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-01-25 15:42:18,942 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-01-25 15:49:04,962 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-01-25 15:49:07,057 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Settings tab
+2018-01-25 15:49:07,057 - Step_Defination.Login_feature_step -INFO - Looking for Minimum price in XML
+2018-01-25 15:49:11,259 - Step_Defination.Login_feature_step -INFO - Price given successfully
+2018-01-25 15:49:11,259 - Step_Defination.Login_feature_step -INFO - Looking for Max Price in XML
+2018-01-25 15:49:13,415 - Step_Defination.Login_feature_step -INFO - Price given successfully
+2018-01-25 15:49:15,486 - Step_Defination.Login_feature_step -INFO - Clicked on Solitaire
+2018-01-25 15:49:17,601 - Step_Defination.Login_feature_step -INFO - Clicked on fourteen_k_white_gold
+2018-01-25 15:52:46,905 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-01-25 15:52:49,065 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Settings tab
+2018-01-25 15:52:49,066 - Step_Defination.Login_feature_step -INFO - Looking for Minimum price in XML
+2018-01-25 15:52:53,306 - Step_Defination.Login_feature_step -INFO - Price given successfully
+2018-01-25 15:52:53,307 - Step_Defination.Login_feature_step -INFO - Looking for Max Price in XML
+2018-01-25 15:52:55,509 - Step_Defination.Login_feature_step -INFO - Price given successfully
+2018-01-25 15:52:57,633 - Step_Defination.Login_feature_step -INFO - Clicked on Solitaire
+2018-01-25 15:52:59,759 - Step_Defination.Login_feature_step -INFO - Clicked on Sidestone
+2018-01-25 15:53:01,880 - Step_Defination.Login_feature_step -INFO - Clicked on ThreeStone
+2018-01-25 15:53:03,993 - Step_Defination.Login_feature_step -INFO - Clicked on fourteen_k_white_gold
+2018-01-25 15:54:18,432 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-01-25 15:54:20,675 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Settings tab
+2018-01-25 15:54:20,676 - Step_Defination.Login_feature_step -INFO - Looking for Minimum price in XML
+2018-01-25 15:54:24,930 - Step_Defination.Login_feature_step -INFO - Price given successfully
+2018-01-25 15:54:24,931 - Step_Defination.Login_feature_step -INFO - Looking for Max Price in XML
+2018-01-25 15:54:27,142 - Step_Defination.Login_feature_step -INFO - Price given successfully
+2018-01-25 15:54:29,243 - Step_Defination.Login_feature_step -INFO - Clicked on Solitaire
+2018-01-25 15:54:31,382 - Step_Defination.Login_feature_step -INFO - Clicked on Sidestone
+2018-01-25 15:54:33,490 - Step_Defination.Login_feature_step -INFO - Clicked on ThreeStone
+2018-01-25 15:54:35,605 - Step_Defination.Login_feature_step -INFO - Clicked on fourteen_k_white_gold
+2018-01-25 15:54:37,692 - Step_Defination.Login_feature_step -INFO - Clicked on eighteen_k_white_gold
+2018-01-25 15:54:39,822 - Step_Defination.Login_feature_step -INFO - Clicked on fourteen_k_yellow_gold
+2018-01-25 15:54:41,940 - Step_Defination.Login_feature_step -INFO - Clicked on eighteen_k_yellow_Gold
+2018-01-25 15:54:44,040 - Step_Defination.Login_feature_step -INFO - Clicked on fourteen_k_rose_gold
+2018-01-25 15:54:46,144 - Step_Defination.Login_feature_step -INFO - Clicked on eighteen_k_rose_Gold
+2018-01-25 15:54:48,293 - Step_Defination.Login_feature_step -INFO - Clicked on platinium
+2018-01-25 15:54:50,422 - Step_Defination.Login_feature_step -INFO - Clicked on palladium
