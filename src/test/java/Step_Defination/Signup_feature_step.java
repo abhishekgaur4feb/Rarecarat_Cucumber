@@ -85,7 +85,7 @@ public class Signup_feature_step {
 		
 		String classNameValueText1=Login_page_object.Message_success.getText();
 		System.out.println("Value of classNameValue attribute: "+classNameValueText1);
-			
+		Thread.sleep(3000);	
 		 Assert.assertEquals("Your user has been created. Please check your email to activate your account.", classNameValueText1);
 	}
 
