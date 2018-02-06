@@ -1,5 +1,6 @@
 package Step_Defination;
 
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.BasicConfigurator;
@@ -139,8 +140,25 @@ public class Diamond_Search{
 		WebElement element = wait
 				.until(ExpectedConditions.elementToBeClickable(By
 						.xpath("html/body/div[2]/div/section/div[3]/div/div[4]/div[1]/div/div/div[1]/div[1]/div[2]/div[1]/span/span")));
-		element.click();
-		// Thread.sleep(2000);
+		
+		Thread.sleep(2000);
+		//result-text
+		
+	/*	List<WebElement> List = driver.findElements(By.className("result-text"));
+
+	     System.out.println(List.size()); // Print total count
+
+	    for (int i = 0; i<List.size(); i++) 
+	    {    
+	        System.out.println(List.get(i).getAttribute("innerHTML"));          
+	    }*/
+		
+		
+		List<WebElement> iframes1 = driver.findElements(By.className("result-text"));
+		for (WebElement iframe1 : iframes1)
+		{ System.out.println(iframe1.getAttribute("innerHTML")); }
+		
+		 
 		String URl = driver.getCurrentUrl();
 		// URL LINK ADDED by Abhishek
 		logger.info("Url Link Clicked-->" + URl);
