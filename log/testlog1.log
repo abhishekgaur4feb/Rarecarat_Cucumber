@@ -5325,3 +5325,1142 @@
 2018-02-06 11:46:08,666 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
 2018-02-06 11:46:11,502 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
 2018-02-06 11:46:21,069 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-06 11:51:41,314 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 11:51:41,356 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 11:51:41,875 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 11:51:55,498 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 11:52:07,226 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 11:52:07,227 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 11:52:07,843 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 11:52:21,363 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 11:52:48,191 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 11:52:48,228 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 11:52:50,788 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 11:52:52,908 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 11:52:52,909 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 11:52:55,160 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 11:53:22,046 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 11:53:22,082 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 11:53:24,576 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 11:53:26,664 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 11:53:26,665 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 11:53:28,916 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 11:53:39,625 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 11:53:41,626 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 11:53:43,829 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 11:53:46,042 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 11:53:52,167 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 11:53:54,412 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 11:54:05,954 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-06 11:54:07,954 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-06 11:54:21,895 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 11:54:21,898 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 11:54:24,580 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 11:54:26,651 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 11:54:26,652 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 11:54:28,857 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 11:54:38,234 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 11:54:40,235 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 11:54:46,733 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 11:54:48,969 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 11:54:55,374 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 11:54:57,550 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 11:55:42,397 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 11:55:42,423 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 11:55:44,985 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 11:55:47,055 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 11:55:47,056 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 11:55:49,244 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 11:55:57,466 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 11:55:59,466 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 11:56:05,938 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 11:56:08,175 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 11:56:14,506 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 11:56:16,698 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 11:56:26,272 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-06 15:34:50,732 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:34:50,750 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:34:51,207 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 15:35:05,549 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 15:35:42,926 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:35:42,945 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:35:43,387 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 15:36:16,995 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:36:16,996 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:36:17,437 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 15:36:34,928 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 15:38:25,544 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:38:25,563 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:38:28,013 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 15:38:30,147 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 15:38:30,149 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 15:39:15,515 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:39:15,538 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:39:17,995 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 15:39:20,135 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 15:39:20,135 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 15:40:00,514 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:40:00,535 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:40:03,151 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 15:40:05,288 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 15:40:05,289 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 15:40:07,526 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 15:40:16,048 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 15:40:18,049 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 15:40:20,253 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 15:40:22,456 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 15:40:28,616 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 15:40:30,827 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 15:40:42,358 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-06 15:40:44,361 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-06 15:40:57,500 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:40:57,503 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:40:59,963 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 15:41:02,090 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 15:41:02,092 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 15:41:04,326 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 15:41:12,377 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 15:41:14,377 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 15:41:22,819 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 15:41:25,033 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 15:41:31,427 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 15:41:33,623 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 15:42:11,076 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:42:11,096 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:42:34,050 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:42:34,068 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:42:36,706 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 15:42:38,863 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 15:42:38,864 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 15:42:41,115 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 15:42:50,761 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 15:42:52,762 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 15:43:00,620 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 15:43:02,843 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 15:43:09,222 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 15:43:11,375 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 15:43:43,168 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:43:43,188 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:43:45,815 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 15:43:47,945 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 15:43:47,947 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 15:43:50,196 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 15:43:59,177 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 15:44:01,177 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 15:44:07,863 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 15:44:10,072 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 15:44:16,441 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 15:44:18,673 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 15:44:28,214 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-06 15:59:11,853 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:59:11,871 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:59:12,483 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 15:59:26,093 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 15:59:38,276 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 15:59:38,277 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 15:59:38,835 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 15:59:54,646 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 16:00:38,645 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 16:00:38,663 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 16:00:41,258 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 16:00:43,390 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 16:00:43,391 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 16:00:45,628 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 16:00:53,919 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 16:00:55,919 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 16:00:58,138 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 16:01:00,275 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 16:01:06,412 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 16:01:08,630 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 16:01:43,528 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 16:01:43,547 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 16:01:46,162 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 16:01:48,256 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 16:01:48,258 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 16:01:50,490 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 16:01:59,374 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 16:02:01,375 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 16:02:03,615 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 16:02:05,829 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 16:02:11,979 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 16:02:14,203 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 16:02:25,729 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-06 16:02:27,730 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-06 16:02:40,429 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 16:02:40,430 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 16:02:43,020 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 16:02:45,095 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 16:02:45,097 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 16:02:47,356 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 16:02:56,006 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 16:02:58,007 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 16:03:08,797 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 16:03:11,004 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 16:03:17,383 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 16:03:19,605 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 16:03:51,580 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 16:03:51,601 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 16:03:54,225 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 16:03:56,331 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 16:03:56,333 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 16:03:58,581 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 16:04:07,982 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 16:04:09,982 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 16:04:12,191 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 16:04:14,360 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 16:04:20,755 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 16:04:22,957 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 16:04:32,513 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-06 16:58:00,720 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 16:58:00,740 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 16:58:01,325 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 16:58:13,239 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 16:58:23,212 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 16:58:23,214 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 16:58:23,922 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 16:58:39,971 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 16:59:21,443 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 16:59:21,462 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 16:59:24,083 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 16:59:26,192 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 16:59:26,193 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 16:59:28,424 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 16:59:39,914 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 16:59:41,915 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 16:59:58,272 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 16:59:58,292 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:00:00,912 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:00:02,991 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:00:02,993 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:00:05,237 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:00:14,032 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:00:16,032 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:00:18,238 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:00:20,441 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:00:26,592 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 17:00:28,782 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 17:28:40,044 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:28:40,062 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:28:42,750 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:28:44,840 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:28:44,840 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:28:47,028 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:28:56,257 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:28:58,258 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:29:00,447 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:29:02,638 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:29:08,769 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 17:29:10,955 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 17:29:22,519 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-06 17:29:24,521 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-06 17:29:41,241 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:29:41,242 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:29:43,902 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:29:46,015 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:29:46,017 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:29:48,225 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:29:57,095 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:29:59,095 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:30:05,516 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:30:07,744 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:30:40,461 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:30:40,484 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:30:43,215 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:30:45,357 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:30:45,357 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:30:47,556 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:30:56,497 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:30:58,497 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:31:05,236 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:31:12,522 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:33:22,638 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:33:22,659 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:33:25,278 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:33:27,350 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:33:27,350 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:33:29,573 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:33:38,572 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:33:40,573 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:33:48,287 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:33:50,494 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:35:05,981 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:35:05,999 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:35:06,625 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-06 17:35:20,052 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-06 17:35:42,129 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:35:42,154 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:35:44,727 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:35:46,852 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:35:46,853 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:35:49,097 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:36:00,410 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:36:02,410 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:36:04,612 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:36:06,805 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:36:12,958 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 17:36:15,170 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 17:36:26,670 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-06 17:36:28,672 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-06 17:44:15,330 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:44:15,350 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:44:18,032 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:44:20,104 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:44:20,104 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:44:22,265 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:44:31,261 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:44:33,263 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:44:41,890 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:44:44,049 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:48:24,953 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:48:24,975 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:48:27,636 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:48:29,748 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:48:29,750 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:48:31,942 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:48:41,429 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:48:43,429 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:48:49,916 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:48:52,136 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:49:00,467 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 17:49:02,640 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 17:49:49,594 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-06 17:49:49,617 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-06 17:49:52,256 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-06 17:49:54,380 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-06 17:49:54,381 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-06 17:49:56,576 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-06 17:50:05,764 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-06 17:50:07,765 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-06 17:50:09,941 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-06 17:50:12,131 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-06 17:50:20,484 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-06 17:50:22,643 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-06 17:50:32,269 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 12:02:39,867 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:02:40,064 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:02:40,553 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:16:31,898 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:16:31,926 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:16:34,577 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:16:36,747 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:16:36,747 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:16:38,974 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:16:48,284 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:16:50,285 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:16:52,515 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:16:54,688 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:17:00,865 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 12:17:03,060 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 12:17:14,698 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 12:17:16,700 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 12:17:33,885 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:17:33,887 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:17:36,464 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:17:38,575 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:17:38,576 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:17:40,816 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:17:52,063 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:17:54,065 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:18:01,592 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:18:03,806 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:18:34,963 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:18:34,992 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:18:37,458 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:18:39,598 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:18:39,600 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:18:41,854 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:18:51,564 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:18:53,564 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:19:01,100 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:19:03,317 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:21:51,237 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:21:51,274 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:21:53,802 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:21:55,925 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:21:55,926 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:21:58,155 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:22:07,491 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:22:09,492 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:22:11,754 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:22:13,958 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:22:22,336 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 12:22:24,827 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 12:22:34,415 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 12:25:08,703 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:25:08,743 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:25:09,253 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:25:23,699 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 12:25:33,442 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:25:33,444 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:25:34,167 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:25:54,205 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 12:26:22,571 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:26:22,610 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:26:25,100 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:26:27,193 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:26:27,193 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:26:29,407 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:26:40,169 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:26:42,170 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:26:44,367 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:26:46,532 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:26:52,673 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 12:26:54,873 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 12:27:06,419 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 12:27:08,420 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 12:31:25,597 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:31:25,630 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:31:26,187 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:31:39,219 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 12:32:02,751 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:32:02,771 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:32:05,539 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:32:07,646 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:32:07,646 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:32:09,836 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:32:19,445 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:32:21,447 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:32:29,366 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:32:31,553 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:32:39,907 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 12:32:42,098 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 12:32:51,627 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 12:39:22,547 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:39:22,576 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:39:23,218 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:39:52,685 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 12:40:03,417 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:40:03,419 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:40:04,111 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:40:21,612 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 12:43:28,296 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:43:28,329 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:43:30,831 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:43:32,926 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:43:32,927 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:43:35,138 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:43:50,242 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:43:52,243 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:43:54,467 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:43:56,611 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:44:02,747 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 12:44:04,988 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 12:44:16,630 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 12:44:18,631 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 12:44:31,399 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:44:31,401 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:44:34,003 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:44:36,129 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:44:36,131 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:44:38,363 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:44:53,739 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:44:55,739 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:45:02,691 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:45:04,905 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:45:13,271 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 12:45:15,452 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 12:45:25,078 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 12:47:58,723 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:47:58,759 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:47:59,271 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:48:11,396 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 12:48:20,848 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:48:20,851 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:48:21,675 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:48:40,018 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 12:48:57,653 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:48:57,684 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:49:00,214 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:49:02,354 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:49:02,355 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:49:04,579 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:49:14,353 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:49:16,355 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:49:18,545 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:49:20,808 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:49:26,943 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 12:49:29,144 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 12:49:40,693 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 12:49:42,694 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 12:49:55,308 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:49:55,310 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:49:57,918 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 12:50:00,024 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 12:50:00,025 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 12:50:02,242 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 12:50:11,220 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 12:50:13,221 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 12:50:20,122 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 12:50:22,309 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 12:50:30,678 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 12:50:32,917 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 12:50:42,534 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 12:51:35,047 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 12:51:35,073 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 12:51:35,606 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 12:51:49,985 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 13:14:53,444 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:14:53,473 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:14:53,959 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 13:15:08,283 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 13:15:35,097 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:15:35,128 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:15:37,652 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:15:39,771 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:15:39,771 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:15:41,967 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 13:15:51,664 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 13:15:53,665 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 13:15:55,883 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 13:15:58,083 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 13:16:04,211 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 13:16:06,352 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 13:16:17,897 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 13:16:19,898 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 13:16:32,119 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:16:32,121 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:16:34,607 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:16:36,702 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:16:36,704 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:16:38,928 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 13:16:47,601 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 13:16:49,602 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 13:16:56,247 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 13:16:58,466 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 13:17:06,875 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 13:17:09,057 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 13:17:18,588 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 13:17:31,686 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:17:31,687 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:17:34,348 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:17:36,435 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:17:36,435 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:17:38,607 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 13:17:47,848 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 13:17:49,848 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 13:19:18,741 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:19:18,765 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:19:21,365 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:19:23,483 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:19:23,484 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:19:25,705 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 13:19:35,059 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 13:19:37,061 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 13:19:39,303 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 13:19:41,456 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 13:45:27,062 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:45:27,091 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:45:27,561 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 13:45:41,313 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 13:45:51,855 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:45:51,857 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:45:52,441 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 13:46:11,465 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 13:54:17,076 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:54:17,095 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:54:19,764 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:54:21,882 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:54:21,883 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:54:52,200 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:54:52,225 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:54:54,859 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:54:56,989 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:54:56,992 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:56:12,954 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:56:12,990 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:56:15,551 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:56:17,653 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:56:17,654 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:56:53,821 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:56:53,840 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:56:56,363 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:56:58,520 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:56:58,522 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:57:00,740 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 13:57:53,861 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:57:53,881 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:57:56,615 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:57:58,738 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:57:58,738 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 13:58:32,717 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 13:58:32,737 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 13:58:35,411 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 13:58:37,567 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 13:58:37,568 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:30:42,674 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:30:42,700 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:30:45,173 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 15:30:47,272 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 15:30:47,274 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:30:49,518 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 15:31:01,343 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 15:31:03,345 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 15:31:05,574 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 15:31:07,779 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 15:31:13,972 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 15:31:16,231 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 15:31:27,900 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 15:31:29,901 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 15:31:56,551 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:31:56,590 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:31:59,114 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 15:32:01,249 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 15:32:01,250 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:32:03,443 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 15:32:12,720 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 15:32:14,722 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 15:32:25,106 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 15:32:27,330 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 15:32:35,694 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 15:32:37,920 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 15:32:47,458 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 15:33:15,940 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:33:15,973 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:33:16,525 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 15:33:31,328 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 15:33:44,259 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:33:44,263 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:33:44,908 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 15:33:57,280 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 15:34:31,084 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:34:31,114 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:34:33,627 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 15:34:35,778 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 15:34:35,780 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:34:38,026 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 15:34:47,868 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 15:34:49,870 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 15:34:52,073 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 15:34:54,269 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 15:35:00,432 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 15:35:02,662 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 15:35:14,380 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 15:35:16,381 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 15:35:48,481 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:35:48,482 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:35:51,184 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 15:35:53,299 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 15:35:53,300 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:35:55,551 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 15:36:04,942 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 15:36:06,942 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 15:36:13,962 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 15:36:16,185 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 15:36:24,578 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 15:36:26,764 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 15:36:36,406 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 15:37:02,222 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:37:02,242 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:37:02,912 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 15:37:16,992 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 15:37:30,761 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:37:30,763 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:37:31,435 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 15:37:45,701 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 15:38:24,220 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:38:24,256 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:38:26,772 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 15:38:28,884 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 15:38:28,885 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:38:31,127 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 15:38:44,791 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 15:38:46,792 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 15:38:49,065 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 15:38:51,253 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 15:38:57,406 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 15:38:59,638 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 15:39:11,285 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 15:39:13,286 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 15:39:27,365 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:39:27,366 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:39:30,005 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 15:39:32,089 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 15:39:32,090 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:39:34,275 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 15:39:43,403 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 15:39:45,405 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 15:39:53,379 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 15:39:55,585 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 15:40:03,955 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 15:40:06,130 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 15:40:15,786 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 15:41:25,554 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:41:25,593 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:41:26,137 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 15:41:39,652 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 15:41:52,506 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:41:52,507 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:41:53,144 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 15:42:07,729 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 15:42:28,570 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:42:28,592 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:42:31,081 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 15:42:33,227 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 15:42:33,227 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:42:35,466 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 15:42:45,712 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 15:42:47,712 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 15:42:49,912 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 15:42:52,092 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 15:42:58,283 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 15:43:00,510 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 15:43:12,266 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 15:43:14,267 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 15:43:29,693 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 15:43:29,696 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 15:43:32,390 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 15:43:34,509 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 15:43:34,510 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 15:43:36,756 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 15:43:45,530 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 15:43:47,531 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 15:43:55,525 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 15:43:57,747 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 15:44:06,202 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 15:44:08,407 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 15:44:17,946 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 16:42:57,783 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:42:57,803 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:43:00,402 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 16:43:02,567 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 16:43:02,568 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 16:43:04,821 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 16:43:14,101 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 16:43:16,102 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 16:43:18,300 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 16:43:20,526 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 16:43:26,674 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 16:43:38,200 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:43:38,206 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:44:03,611 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:44:03,638 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:44:06,202 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 16:44:08,343 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 16:44:08,344 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 16:44:10,550 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 16:44:20,038 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 16:44:22,039 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 16:44:24,237 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 16:44:26,427 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 16:44:32,619 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 16:46:06,689 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:46:06,733 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:46:09,237 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 16:46:11,388 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 16:46:11,389 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 16:46:13,627 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 16:46:22,416 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 16:46:24,416 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 16:46:26,647 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 16:46:28,826 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 16:47:25,013 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:47:25,056 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:47:27,571 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 16:47:29,678 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 16:47:29,678 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 16:47:31,876 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 16:47:40,998 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 16:47:42,998 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 16:47:45,212 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 16:47:47,377 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 16:50:25,812 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:50:25,830 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:50:28,411 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 16:50:30,505 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 16:50:30,505 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 16:50:32,739 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 16:50:42,810 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 16:50:44,810 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 16:50:46,985 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 16:50:49,149 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 16:51:15,142 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:51:15,177 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:51:15,728 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 16:51:29,713 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 16:51:40,206 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:51:40,207 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:51:40,859 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 16:51:57,812 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 16:52:39,033 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:52:39,054 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:52:41,645 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 16:52:43,804 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 16:52:43,806 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 16:52:46,042 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 16:53:07,501 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:53:07,526 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:53:10,039 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 16:53:12,140 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 16:53:12,141 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 16:53:14,337 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 16:53:25,057 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 16:53:27,058 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 16:53:29,242 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 16:53:31,422 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 16:53:37,593 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 16:53:39,754 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 16:53:51,316 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 16:53:53,318 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 16:54:05,663 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 16:54:05,665 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 16:54:08,250 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 16:54:10,348 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 16:54:10,350 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 16:54:12,587 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 16:54:21,259 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 16:54:23,260 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 16:54:30,413 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 16:54:32,622 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 16:54:41,012 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 16:54:43,779 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 16:54:53,423 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 17:38:36,209 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:38:36,251 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:38:36,906 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 17:38:52,177 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 17:39:03,843 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:39:03,845 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:39:04,624 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 17:39:30,995 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 17:39:50,404 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:39:50,435 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:39:52,929 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 17:39:55,063 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 17:39:55,063 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 17:39:57,264 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 17:40:07,717 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 17:40:09,718 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 17:40:13,468 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 17:40:30,668 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:40:30,696 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:40:33,212 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 17:40:35,333 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 17:40:35,335 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 17:40:37,570 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 17:40:55,473 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 17:40:57,474 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 17:41:05,175 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 17:41:07,416 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 17:41:13,541 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 17:41:15,760 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 17:41:27,467 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 17:41:29,469 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 17:41:42,235 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:41:42,236 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:41:44,890 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 17:41:47,002 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 17:41:47,003 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 17:41:49,204 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 17:42:00,078 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 17:42:02,078 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 17:42:04,259 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 17:42:06,459 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 17:42:14,873 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 17:42:17,050 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 17:42:26,652 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 17:47:42,844 [main] INFO Step_Defination.Diamond_Search - Fetching URL and Opening the Url
+2018-02-08 17:47:42,882 [main] INFO Step_Defination.Diamond_Search - Looking for Price in Resource
+2018-02-08 17:47:45,152 [main] INFO Step_Defination.Diamond_Search - Price given successfully
+2018-02-08 17:47:45,153 [main] INFO Step_Defination.Diamond_Search - Looking for Carat in Resource
+2018-02-08 17:47:45,318 [main] INFO Step_Defination.Diamond_Search - Carat given successfully
+2018-02-08 17:47:47,320 [main] INFO Step_Defination.Diamond_Search - Looking for Cut in XML
+2018-02-08 17:47:51,583 [main] INFO Step_Defination.Diamond_Search - Cut selected successfully
+2018-02-08 17:47:51,584 [main] INFO Step_Defination.Diamond_Search - Looking in Xml for Color
+2018-02-08 17:47:53,761 [main] INFO Step_Defination.Diamond_Search - Color selected successfully
+2018-02-08 17:47:53,761 [main] INFO Step_Defination.Diamond_Search - Looking in Xml for Clarity
+2018-02-08 17:47:57,975 [main] INFO Step_Defination.Diamond_Search - Clarity selected successfully
+2018-02-08 17:47:58,111 [main] INFO Step_Defination.Diamond_Search - Test start Time1518092278111
+2018-02-08 17:48:04,026 [main] INFO Step_Defination.Diamond_Search - Url Link Clicked-->https://www.rarecarat.com/c/fd94ebbc-b3a2-4667-8117-13933682edc5/l82
+2018-02-08 17:48:04,026 [main] INFO Step_Defination.Diamond_Search - Total Search Time taken: 5915milliseconds
+2018-02-08 17:48:04,027 [main] INFO Step_Defination.Diamond_Search - Search Successful
+2018-02-08 17:49:32,745 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:49:32,765 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:49:33,380 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 17:49:48,479 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 17:49:58,431 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:49:58,433 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:49:59,036 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 17:50:22,889 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 17:50:40,085 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:50:40,118 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:50:42,693 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 17:50:44,769 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 17:50:44,771 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 17:50:47,033 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 17:55:32,706 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:55:32,737 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:55:35,276 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 17:55:37,417 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 17:55:37,418 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 17:55:39,650 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 17:55:56,758 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 17:55:58,759 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 17:56:01,020 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 17:56:03,240 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 17:56:09,453 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 17:56:11,642 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 17:56:23,250 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 17:56:25,252 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 17:56:37,561 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:56:37,563 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:56:40,177 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 17:56:42,294 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 17:56:42,294 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 17:56:44,588 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 17:56:58,451 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 17:57:00,452 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 17:57:06,881 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 17:57:09,066 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 17:57:17,536 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 17:57:19,785 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 17:57:29,399 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 17:57:48,520 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:57:48,561 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:57:49,058 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 17:58:04,340 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 17:58:15,597 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:58:15,599 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:58:16,181 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 17:58:32,362 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 17:58:49,431 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:58:49,474 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:58:52,281 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 17:58:54,455 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 17:58:54,456 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 17:58:56,717 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 17:59:12,888 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 17:59:14,889 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 17:59:17,094 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 17:59:19,266 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 17:59:25,427 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 17:59:27,644 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 17:59:39,289 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 17:59:41,290 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 17:59:53,627 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 17:59:53,629 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 17:59:56,258 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 17:59:58,370 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 17:59:58,370 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 18:00:00,636 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 18:00:12,982 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 18:00:14,983 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 18:00:21,655 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 18:00:23,848 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 18:00:32,213 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 18:00:34,446 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 18:00:44,058 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-08 18:01:09,538 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 18:01:09,557 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 18:01:10,145 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 18:01:25,983 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 18:01:36,314 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 18:01:36,316 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 18:01:36,936 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-08 18:01:55,348 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-08 18:02:49,053 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 18:02:49,077 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 18:02:51,651 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 18:02:53,773 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 18:02:53,774 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 18:02:56,000 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 18:03:06,191 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 18:03:08,193 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 18:03:10,416 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 18:03:12,635 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 18:03:18,811 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 18:03:21,027 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 18:03:32,751 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-08 18:03:34,751 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-08 18:03:46,579 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 18:03:46,582 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 18:04:18,082 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-08 18:04:18,111 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-08 18:04:20,627 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-08 18:04:22,768 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-08 18:04:22,770 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-08 18:04:25,035 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-08 18:04:34,352 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-08 18:04:36,352 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-08 18:04:38,540 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-08 18:04:40,732 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-08 18:04:49,136 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-08 18:04:51,521 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-08 18:05:01,089 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-09 11:06:00,879 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 11:06:00,949 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 11:06:01,423 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-09 11:06:16,157 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-09 11:06:26,874 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 11:06:26,875 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 11:06:27,599 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-09 11:06:40,994 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-09 11:07:18,353 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 11:07:18,387 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 11:07:20,879 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-09 11:07:22,993 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-09 11:07:22,995 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-09 11:07:25,226 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-09 11:07:33,667 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-09 11:07:35,669 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-09 11:07:37,887 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-09 11:07:40,051 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-09 11:07:46,192 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-09 11:07:48,418 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-09 11:08:00,032 [main] INFO Step_Defination.Login_feature_step - Appointment booked 1st time via Rarecarat login
+2018-02-09 11:08:02,033 [main] INFO Step_Defination.Login_feature_step - Alert! you have already booked 2 appointments
+2018-02-09 11:08:14,870 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 11:08:14,871 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 11:08:17,432 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-09 11:08:19,645 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-09 11:08:19,646 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-09 11:08:21,908 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-09 11:08:31,567 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-09 11:08:33,567 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-09 11:08:40,027 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-09 11:08:42,189 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-09 11:08:50,560 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-09 11:08:52,796 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-09 11:09:02,485 [main] INFO Step_Defination.Login_feature_step - Appointment booked 2nd time via Rarecarat login
+2018-02-09 16:28:03,028 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 16:28:03,048 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 16:28:03,647 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-09 16:28:48,461 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 16:28:48,462 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 16:28:49,135 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username and password
+2018-02-09 16:29:07,208 [main] INFO Step_Defination.Login_feature_step - My Stuff successfully tested.
+2018-02-09 16:29:53,694 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 16:29:53,730 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 16:29:56,241 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-09 16:29:58,381 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-09 16:29:58,382 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-09 16:30:00,602 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-09 16:30:12,031 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-09 16:30:14,032 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-09 16:30:16,240 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-09 16:30:18,412 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-09 16:30:24,572 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-09 16:30:37,419 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 16:30:37,426 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 16:31:11,574 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 16:31:11,610 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 16:31:14,100 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-09 16:31:16,240 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-09 16:31:16,242 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-09 16:31:18,482 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-09 16:31:31,850 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-09 16:31:33,850 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-09 16:31:36,068 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-09 16:31:38,224 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-09 16:31:44,364 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-09 16:31:59,693 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-09 16:31:59,695 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-09 16:32:02,555 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-09 16:32:04,671 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-09 16:32:04,673 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-09 16:32:06,909 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-09 16:32:20,128 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-09 16:32:22,129 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-09 16:32:24,307 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-09 16:32:26,471 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-09 16:32:34,814 [main] INFO Step_Defination.Login_feature_step - Fetching location from Resource File
+2018-02-09 16:32:37,019 [main] INFO Step_Defination.Login_feature_step - Clicked on Eastern Time,DALLAS
+2018-02-19 11:51:22,534 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-19 11:51:22,780 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-19 11:51:34,905 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-19 11:51:34,907 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-20 18:25:36,797 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-20 18:25:36,868 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-20 18:26:23,206 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-20 18:26:23,225 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-28 18:04:29,017 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-28 18:04:29,203 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-28 18:04:31,730 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-28 18:04:33,979 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-28 18:04:33,980 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-28 18:04:36,370 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-02-28 18:04:44,651 [main] INFO Step_Defination.Login_feature_step - Clicked on List View
+2018-02-28 18:04:46,652 [main] INFO Step_Defination.Login_feature_step - Clicking on Diamond Details
+2018-02-28 18:04:48,986 [main] INFO Step_Defination.Login_feature_step - Clicking on See in Person to book an appointment
+2018-02-28 18:04:51,257 [main] INFO Step_Defination.Login_feature_step - Clicking on Continue to book an appointment
+2018-02-28 18:05:24,433 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-02-28 18:05:24,474 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-02-28 18:05:27,001 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-02-28 18:05:29,084 [main] INFO Step_Defination.Login_feature_step - Clicked on Filter by Retailer tab
+2018-02-28 18:05:29,086 [main] INFO Step_Defination.Login_feature_step - Looking for zipcode in Resource File
+2018-02-28 18:05:31,392 [main] INFO Step_Defination.Login_feature_step - Test Retailer Zipcode replaced successfully
+2018-03-09 12:33:54,703 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-09 12:33:54,831 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-09 12:36:17,961 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-09 12:36:17,981 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-09 12:36:23,415 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-03-09 12:36:23,417 [main] INFO Step_Defination.Login_feature_step - User logged in Successfully
+2018-03-09 12:37:58,025 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-09 12:37:58,058 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-09 12:38:03,570 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-03-09 12:38:03,572 [main] INFO Step_Defination.Login_feature_step - User logged in Successfully
+2018-03-09 12:56:58,852 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-09 12:56:59,043 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-09 12:57:05,240 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-03-09 12:57:05,243 [main] INFO Step_Defination.Login_feature_step - User logged in Successfully
+2018-03-22 10:31:32,918 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-22 10:31:33,020 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-22 10:32:25,417 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-22 10:32:25,445 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-22 10:32:58,315 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-22 10:32:58,343 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-22 10:40:28,702 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-22 10:40:28,741 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-22 10:43:52,143 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-22 10:43:52,174 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-22 10:43:57,939 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-03-22 10:43:57,940 [main] INFO Step_Defination.Login_feature_step - User logged in Successfully
+2018-03-22 10:46:44,503 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-22 10:48:22,587 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-22 10:48:22,617 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-22 10:48:22,831 [main] INFO Step_Defination.Login_feature_step - Signup by RareCarat Clicked Successfully
+2018-03-22 10:48:22,917 [main] INFO Step_Defination.Login_feature_step - Signup for New User Clicked Successfully
+2018-03-22 10:48:29,783 [main] INFO Step_Defination.Login_feature_step - All Entries given
+2018-03-22 10:48:30,996 [main] INFO Step_Defination.Login_feature_step - Finally clicked Signup
+2018-03-22 10:49:27,718 [main] INFO Step_Defination.Diamond_Search - Fetching URL and Opening the Url
+2018-03-22 10:49:27,750 [main] INFO Step_Defination.Diamond_Search - Looking for Price in Resource
+2018-03-22 10:49:30,147 [main] INFO Step_Defination.Diamond_Search - Price given successfully
+2018-03-22 10:49:30,148 [main] INFO Step_Defination.Diamond_Search - Looking for Carat in Resource
+2018-03-22 10:49:30,381 [main] INFO Step_Defination.Diamond_Search - Carat given successfully
+2018-03-22 10:49:32,382 [main] INFO Step_Defination.Diamond_Search - Looking for Cut in XML
+2018-03-22 10:49:36,723 [main] INFO Step_Defination.Diamond_Search - Cut selected successfully
+2018-03-22 10:49:36,724 [main] INFO Step_Defination.Diamond_Search - Looking in Xml for Color
+2018-03-22 10:49:38,905 [main] INFO Step_Defination.Diamond_Search - Color selected successfully
+2018-03-22 10:49:38,905 [main] INFO Step_Defination.Diamond_Search - Looking in Xml for Clarity
+2018-03-22 10:49:43,263 [main] INFO Step_Defination.Diamond_Search - Clarity selected successfully
+2018-03-22 11:54:08,647 [main] INFO Step_Defination.Diamond_Search - Fetching URL and Opening the Url
+2018-03-22 11:54:08,681 [main] INFO Step_Defination.Diamond_Search - Looking for Price in Resource
+2018-03-22 11:54:11,126 [main] INFO Step_Defination.Diamond_Search - Price given successfully
+2018-03-22 11:54:11,127 [main] INFO Step_Defination.Diamond_Search - Looking for Carat in Resource
+2018-03-22 11:54:11,480 [main] INFO Step_Defination.Diamond_Search - Carat given successfully
+2018-03-22 11:54:13,481 [main] INFO Step_Defination.Diamond_Search - Looking for Cut in XML
+2018-03-22 11:54:17,758 [main] INFO Step_Defination.Diamond_Search - Cut selected successfully
+2018-03-22 11:54:17,759 [main] INFO Step_Defination.Diamond_Search - Looking in Xml for Color
+2018-03-22 11:54:19,953 [main] INFO Step_Defination.Diamond_Search - Color selected successfully
+2018-03-22 11:54:19,953 [main] INFO Step_Defination.Diamond_Search - Looking in Xml for Clarity
+2018-03-22 11:54:24,234 [main] INFO Step_Defination.Diamond_Search - Clarity selected successfully
+2018-03-22 12:15:44,293 [main] INFO Step_Defination.Diamond_Search - Fetching URL and Opening the Url
+2018-03-22 12:15:44,322 [main] INFO Step_Defination.Diamond_Search - Looking for Price in Resource
+2018-03-22 12:15:46,710 [main] INFO Step_Defination.Diamond_Search - Price given successfully
+2018-03-22 12:15:46,712 [main] INFO Step_Defination.Diamond_Search - Looking for Carat in Resource
+2018-03-22 12:15:47,071 [main] INFO Step_Defination.Diamond_Search - Carat given successfully
+2018-03-22 12:15:49,073 [main] INFO Step_Defination.Diamond_Search - Looking for Cut in XML
+2018-03-22 12:15:53,377 [main] INFO Step_Defination.Diamond_Search - Cut selected successfully
+2018-03-22 12:15:53,377 [main] INFO Step_Defination.Diamond_Search - Looking in Xml for Color
+2018-03-22 12:15:55,628 [main] INFO Step_Defination.Diamond_Search - Color selected successfully
+2018-03-22 12:15:55,629 [main] INFO Step_Defination.Diamond_Search - Looking in Xml for Clarity
+2018-03-22 12:16:00,047 [main] INFO Step_Defination.Diamond_Search - Clarity selected successfully
+2018-03-26 10:46:45,739 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-26 10:46:45,964 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-26 10:49:21,866 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-26 10:49:21,893 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-26 10:54:51,684 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-26 10:54:51,722 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-26 11:01:54,209 [main] INFO Step_Defination.Login_feature_step - Fetching URL and Opening the Url
+2018-03-26 11:01:54,244 [main] INFO Step_Defination.Login_feature_step - Clicking on the Child Window
+2018-03-26 11:02:01,836 [main] INFO Step_Defination.Login_feature_step - Clicked on login Provide username ans password
+2018-03-26 11:02:01,837 [main] INFO Step_Defination.Login_feature_step - User logged in Successfully

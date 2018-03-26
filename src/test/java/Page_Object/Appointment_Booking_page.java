@@ -138,7 +138,7 @@ public class Appointment_Booking_page extends BaseClass{
 	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[3]/div/div[19]/div[2]/div/div[3]/div[2]/div/div/div[3]/button")
 	public static WebElement double_confirmation;
 	
-	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[3]/div/div[17]/div[2]/div/div[2]/div[2]/div/div/div[5]/button[2]")
+	@FindBy(how=How.XPATH,using=".//*[@id='appointmentConfirmPopup']/div[2]/div/div[2]/div[2]/div/div/div[6]/button[2]")
 	public static WebElement second_confirmation;
 	
 	

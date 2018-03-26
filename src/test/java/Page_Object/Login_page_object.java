@@ -16,7 +16,7 @@ public class Login_page_object extends BaseClass{
 	}
 	
 
-	@FindBy(how=How.XPATH, using=".//*[@id='divDiamondController']/header/div[3]/a[10]/span")
+	@FindBy(how=How.XPATH, using="//*[@id='divDiamondController']/header/div[3]/a[9]/span")
 	public static WebElement gobutton;
 	@FindBy(how=How.XPATH, using=".//*[@id='loginAlert']/div[2]/div/div/div[2]/div[4]/div[2]/a[3]")
 	public static WebElement RareCarat;

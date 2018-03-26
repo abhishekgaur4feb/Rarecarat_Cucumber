@@ -31,8 +31,8 @@ public class Login_feature_step {
 		//Initialization
 		PageFactory.initElements(driver, Login_page_object.class);
 		logger.info("Clicking on the Child Window");
-		System.out.println("Username"+uname);
-		System.out.println("Password"+password);
+		System.out.println("Username from Feature file-->"+uname);
+		System.out.println("Password from Feature file"+password);
 		Login_page_object.gobutton.click();
 
 		String parentWindowHandler = driver.getWindowHandle(); // Store your parent window
@@ -47,6 +47,7 @@ public class Login_feature_step {
 		System.out.println(driver.getTitle());
 		// Now you are in the popup window, perform necessary actions here
 		Login_page_object.RareCarat.click();
+		Thread.sleep(2000);
 		Login_page_object.Login_Username.sendKeys(uname);
 		Login_page_object.Login_Password.sendKeys(password);
 		Login_page_object.Login.click();

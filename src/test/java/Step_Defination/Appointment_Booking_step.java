@@ -228,7 +228,9 @@ public class Appointment_Booking_step {
 		
 		if(appointment_time==2)
 		{
+			Thread.sleep(2000);
 			if(Appointment_Booking_page.second_confirmation.isEnabled()){
+				//Thread.sleep(2000);
 				Appointment_Booking_page.second_confirmation.click();
 				Thread.sleep(2000);
 				

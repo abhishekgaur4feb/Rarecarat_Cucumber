@@ -46,7 +46,7 @@ public class Hooks{
 		else if(Browsername.equals("firefox")){
 			System.setProperty("webdriver.gecko.driver", "driver//geckodriver.exe");
 			driver=new FirefoxDriver();
-			driver.manage().deleteAllCookies();
+			//driver.manage().deleteAllCookies();
 			driver.get(prop.getProperty("url"));
 			driver.manage().window().maximize();
 			}
@@ -72,7 +72,7 @@ public class Hooks{
 			}
 
 		}
-		driver.quit();
+		//driver.quit();
 
 	}
 
