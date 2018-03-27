@@ -51,6 +51,9 @@ public class Diamond_Search{
 	public void Filter_By_Diamond_TestCase(String price_right,String Carat_left, int Color_right_param,int Cut_right_param, int Clarity_right_param) throws InterruptedException {
 		BasicConfigurator.configure();
 		PageFactory.initElements(driver, Filter_By_Diamond_page_Cucumber.class);
+		
+		Filter_By_Diamond_page_Cucumber.Search.click();
+		
 		//Filter_By_Diamond_page_Cucumber fbd = new Filter_By_Diamond_page_Cucumber(driver);
 		
 		// System.out.println(price_left);
@@ -62,17 +65,23 @@ public class Diamond_Search{
 		// Filter By Diamond
 		//fbd.Filter_By_Diamond().click();
 		//Thread.sleep(2000);
+		Thread.sleep(5000);
 
+		//Filter_By_Diamond_page_Cucumber.Advance_filters.click();
+		
 		
 		
 		//Price
 		logger.info("Looking for Price in Resource");
+		((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", Filter_By_Diamond_page_Cucumber.pricetextmax);
 		Filter_By_Diamond_page_Cucumber.pricetextmax.clear();
 		Filter_By_Diamond_page_Cucumber.pricetextmax.sendKeys(Keys.chord(Keys.CONTROL, "a"), price_right);
 		Thread.sleep(2000);
 		Filter_By_Diamond_page_Cucumber.pricetextmax.sendKeys(Keys.chord(Keys.ENTER));
 		logger.info("Price given successfully");
 		
+		JavascriptExecutor jse = (JavascriptExecutor) driver;
+		 jse.executeScript("window.scrollBy(0,-1)", "");
 		
 		//Carat
 		
@@ -83,6 +92,7 @@ public class Diamond_Search{
 		Filter_By_Diamond_page_Cucumber.Carat.sendKeys(Keys.chord(Keys.ENTER));
 		logger.info("Carat given successfully");
 		Thread.sleep(2000);
+		
 		
 		
 		//CUT
@@ -126,12 +136,16 @@ public class Diamond_Search{
 		
 		Filter_By_Diamond_page_Cucumber.AGS_check.click();
 		
+		Thread.sleep(3000);
 		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView();", Filter_By_Diamond_page_Cucumber.Photo_Video);
 		Filter_By_Diamond_page_Cucumber.Photo_Video.click();
 		// Thread.sleep(2000);
 		// Click on Search Button
 		long startTime = System.currentTimeMillis();
 		logger.info("Test start Time" + startTime);
+		
+		
+		
 
 		Filter_By_Diamond_page_Cucumber.Search.click();
 		// Thread.sleep(2000);

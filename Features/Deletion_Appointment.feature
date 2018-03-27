@@ -8,4 +8,4 @@ Feature: Appointment Deletion
     Examples: 
       | uname                      | password   | appointment_cancel_number |
       | abhishekgaur4feb@gmail.com | Abhi@12345 |                         2 |
-      | abhishekgaur4feb@gmail.com | Abhi@12345 |                         1 |
+     # | abhishekgaur4feb@gmail.com | Abhi@12345 |                         1 |

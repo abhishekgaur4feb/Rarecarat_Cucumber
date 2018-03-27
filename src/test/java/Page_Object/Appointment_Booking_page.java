@@ -22,21 +22,21 @@ public class Appointment_Booking_page extends BaseClass{
 	public static WebElement search_button;
 	
 	//Appointment
-	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[3]/div/div[4]/div[1]/div/div/div[1]/div[1]/div[2]/div[1]/span/span")
+	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/section[1]/div[3]/div[5]/div[1]/div/div/div[1]/div[1]/div[2]/div[1]/span/span")
 	public static WebElement list_view;
-	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[3]/div/div[4]/div[1]/div/div/div[1]/div[1]/div[2]/div[1]/div[2]")
+	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/section[1]/div[3]/div[5]/div[1]/div/div/div[1]/div[1]/div[2]/div[1]/div[2]")
 	public static WebElement list_view_details;
 	
-	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[3]/div/div[13]/div[2]/div/div[2]/div[3]/div[1]")
+	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/section[1]/div[3]/div[13]/div[2]/div/div[2]/div[3]/div[1]")
 	public static WebElement see_in_person;
 	
 	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[4]/div/div/div[3]/div[2]/div[1]")
 	public static WebElement continue_booking;
 	
-	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[3]/div/div[15]/div[2]/div/div[3]/div[2]/div[1]/div[1]")
+	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/section[1]/div[3]/div[15]/div[2]/div/div[3]/div[2]/div[1]/div[1]")
 	public static WebElement select_location_eastern_dallas;
 	
-	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[3]/div/div[15]/div[2]/div/div[3]/div[2]/div[1]/div[2]")
+	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/section[1]/div[3]/div[15]/div[2]/div/div[3]/div[2]/div[1]/div[2]")
 	public static WebElement select_location_taxas_united_states;
 	
 	
@@ -135,7 +135,7 @@ public class Appointment_Booking_page extends BaseClass{
 	public static WebElement scroll;
 	
 	
-	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/div[3]/div/div[19]/div[2]/div/div[3]/div[2]/div/div/div[3]/button")
+	@FindBy(how=How.XPATH,using="html/body/div[2]/div/section/section[1]/div[3]/div[19]/div[2]/div/div[3]/div[2]/div/div/div[3]/button")
 	public static WebElement double_confirmation;
 	
 	@FindBy(how=How.XPATH,using=".//*[@id='appointmentConfirmPopup']/div[2]/div/div[2]/div[2]/div/div/div[6]/button[2]")

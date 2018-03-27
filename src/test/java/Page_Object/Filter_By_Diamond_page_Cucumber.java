@@ -18,7 +18,11 @@ public class Filter_By_Diamond_page_Cucumber extends BaseClass{
 		super(driver);
 	}
 
-
+	@FindBy(how=How.XPATH, using="html/body/div[2]/div/section/section[1]/div[1]/div/div[1]/div[4]/div[1]/div/div[3]/div/div[1]/div[1]/div[2]/span")
+	public static WebElement Advance_filters;
+	
+	@FindBy(how=How.XPATH, using="html/body/div[2]/div/section/section[1]/div[1]/div/div[1]/div[4]/div[1]/div/div[3]/div/div[1]/div[3]/span")
+	public static WebElement Scroll_more;
 
 	@FindBy(how=How.XPATH, using=".//*[@id='tabDiamond']/a")
 	public static WebElement Filter_By_Diamond;
@@ -38,13 +42,13 @@ public class Filter_By_Diamond_page_Cucumber extends BaseClass{
 	@FindBy(how=How.XPATH, using=".//*[@id='thelist']/div[7]/div[2]/div[1]/span/span[6]")
 	public static WebElement Clarity_Right;
 
-	@FindBy(how=How.XPATH, using=".//*[@id='thelist']/div[5]/div[2]/div[1]/span/span[6]")
+	@FindBy(how=How.XPATH, using=".//*[@id='thelist']/div[4]/div[2]/div[1]/span/span[7]")
 	public static WebElement Cut_right;
 
-	@FindBy(how=How.XPATH, using=".//*[@id='thelist']/div[11]/div/label/div")
+	@FindBy(how=How.XPATH, using="html/body/div[2]/div/section/section[1]/div[1]/div/div[1]/div[4]/div[1]/div/div[2]/div[1]/div/div/div[10]/div/label/div")
 	public static WebElement Photo_Video;
 
-	@FindBy(how=How.XPATH, using=".//*[@id='divSearchBtn']/div[2]")
+	@FindBy(how=How.XPATH, using="html/body/div[2]/div/section/section[1]/div[1]/div/div[1]/div[4]/div[4]/div[2]")
 	public static WebElement Search;	
 
 	@FindBy(how=How.XPATH, using=".//*[@id='C4']")

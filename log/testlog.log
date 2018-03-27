@@ -6464,3 +6464,366 @@
 2018-03-26 11:01:54,244 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
 2018-03-26 11:02:01,836 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username ans password
 2018-03-26 11:02:01,837 - Step_Defination.Login_feature_step -INFO - User logged in Successfully
+2018-03-26 11:20:33,932 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-26 11:20:33,964 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-26 11:20:34,155 - Step_Defination.Login_feature_step -INFO - Signup by RareCarat Clicked Successfully
+2018-03-26 11:20:34,234 - Step_Defination.Login_feature_step -INFO - Signup for New User Clicked Successfully
+2018-03-26 11:20:41,141 - Step_Defination.Login_feature_step -INFO - All Entries given
+2018-03-26 11:20:42,399 - Step_Defination.Login_feature_step -INFO - Finally clicked Signup
+2018-03-26 11:26:22,542 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 11:26:22,574 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 11:26:24,957 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 11:26:24,959 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 11:26:25,336 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 11:26:27,336 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 11:26:31,810 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 11:26:31,811 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 11:26:34,094 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 11:26:34,094 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 11:26:38,336 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 11:31:24,772 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 11:34:12,593 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 11:44:51,582 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:01:02,696 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:08:31,516 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:12:39,161 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:14:48,253 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:16:26,882 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:16:31,907 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:16:34,192 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:16:34,193 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:16:34,402 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:16:36,402 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:16:40,594 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:16:40,594 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:16:42,712 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:16:42,712 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:16:46,904 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 12:19:10,213 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:19:15,234 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:19:17,486 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:21:11,769 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:21:16,913 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:23:05,138 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:23:10,322 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:23:12,604 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:23:12,604 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:23:12,795 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:23:14,796 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:23:19,032 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:23:19,032 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:23:21,210 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:23:21,210 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:23:25,378 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 12:33:02,368 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:33:07,550 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:33:09,837 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:33:09,837 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:33:10,085 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:33:12,086 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:33:16,302 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:33:16,302 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:33:18,463 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:33:18,464 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:33:22,649 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 12:35:53,592 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:35:58,773 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:36:01,050 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:36:01,051 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:36:01,227 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:36:03,227 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:36:07,417 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:36:07,417 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:36:09,516 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:36:09,517 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:36:13,682 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 12:38:17,202 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:38:22,386 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:38:24,673 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:38:24,674 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:38:24,879 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:38:26,879 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:38:31,059 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:38:31,059 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:38:33,191 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:38:33,191 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:38:37,350 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 12:44:17,189 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:44:22,365 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:44:24,629 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:44:24,630 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:44:24,811 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:44:26,812 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:44:31,025 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:44:31,026 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:44:33,187 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:44:33,187 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:44:37,380 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 12:50:22,468 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:50:27,653 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:50:29,965 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:50:29,974 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:50:30,159 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:50:32,160 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:50:36,400 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:50:36,400 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:50:38,513 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:50:38,513 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:50:42,693 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 12:55:40,404 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:55:45,564 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:55:47,881 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:55:47,891 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:55:48,087 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:55:50,095 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:55:54,321 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:55:54,321 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:55:56,500 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:55:56,501 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:56:00,693 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 12:59:19,081 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 12:59:24,275 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 12:59:26,551 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 12:59:26,558 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 12:59:26,749 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 12:59:28,767 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 12:59:33,022 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 12:59:33,022 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 12:59:35,187 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 12:59:35,187 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 12:59:39,380 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:01:48,094 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:01:53,287 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 13:01:55,525 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 13:01:55,532 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 13:01:55,719 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 13:01:57,740 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 13:02:01,968 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 13:02:01,968 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 13:02:04,164 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 13:02:04,165 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 13:02:08,367 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:04:20,716 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:04:25,867 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 13:04:28,147 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 13:04:28,168 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 13:04:28,386 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 13:04:30,391 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 13:04:34,642 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 13:04:34,643 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 13:04:36,839 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 13:04:36,839 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 13:04:41,014 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:06:15,874 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:06:21,076 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 13:06:23,468 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 13:06:23,474 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 13:06:23,663 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 13:06:25,684 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 13:06:29,863 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 13:06:29,863 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 13:06:31,996 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 13:06:31,996 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 13:06:36,123 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:09:02,297 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:09:07,462 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 13:09:09,738 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 13:09:09,744 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 13:09:09,937 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 13:09:11,970 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 13:09:16,152 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 13:09:16,153 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 13:09:18,335 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 13:09:18,336 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 13:09:22,480 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:25:01,417 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:25:06,708 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 13:25:09,020 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 13:25:09,043 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 13:25:09,352 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 13:25:11,381 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 13:25:15,616 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 13:25:15,617 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 13:25:17,908 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 13:25:17,909 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 13:25:22,131 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:29:14,991 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:29:20,281 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 13:29:22,656 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 13:29:22,693 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 13:29:23,121 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 13:29:25,155 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 13:29:29,560 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 13:29:29,561 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 13:29:31,869 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 13:29:31,871 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 13:29:36,159 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:33:35,753 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:33:41,111 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 13:33:43,487 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 13:33:43,506 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 13:33:43,895 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 13:33:45,928 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 13:33:50,216 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 13:33:50,217 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 13:33:52,439 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 13:33:52,440 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 13:33:56,711 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:40:24,239 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:43:28,082 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:44:40,561 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:45:33,515 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 13:45:38,793 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 13:45:41,522 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 13:45:41,532 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 13:45:42,169 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 13:45:44,181 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 13:45:48,589 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 13:45:48,589 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 13:45:50,970 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 13:45:50,970 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 13:45:55,429 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 13:45:58,958 - Step_Defination.Diamond_Search -INFO - Test start Time1522052158958
+2018-03-26 14:39:44,315 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 14:39:49,562 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 14:39:52,200 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 14:39:52,212 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 14:39:52,604 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 14:39:54,627 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 14:39:59,115 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 14:39:59,116 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 14:40:01,643 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 14:40:01,643 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 14:40:06,280 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 14:41:36,035 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-26 14:41:41,242 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-26 14:41:44,077 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-26 14:41:44,087 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-26 14:41:44,633 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-26 14:41:46,633 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-26 14:41:51,196 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-26 14:41:51,197 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-26 14:41:53,671 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-26 14:41:53,671 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-26 14:41:58,217 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-26 14:42:01,621 - Step_Defination.Diamond_Search -INFO - Test start Time1522055521621
+2018-03-27 11:32:34,371 - Step_Defination.Diamond_Search -INFO - Fetching URL and Opening the Url
+2018-03-27 11:32:39,609 - Step_Defination.Diamond_Search -INFO - Looking for Price in Resource
+2018-03-27 11:32:42,542 - Step_Defination.Diamond_Search -INFO - Price given successfully
+2018-03-27 11:32:42,557 - Step_Defination.Diamond_Search -INFO - Looking for Carat in Resource
+2018-03-27 11:32:43,173 - Step_Defination.Diamond_Search -INFO - Carat given successfully
+2018-03-27 11:32:45,174 - Step_Defination.Diamond_Search -INFO - Looking for Cut in XML
+2018-03-27 11:32:49,692 - Step_Defination.Diamond_Search -INFO - Cut selected successfully
+2018-03-27 11:32:49,693 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Color
+2018-03-27 11:32:52,282 - Step_Defination.Diamond_Search -INFO - Color selected successfully
+2018-03-27 11:32:52,283 - Step_Defination.Diamond_Search -INFO - Looking in Xml for Clarity
+2018-03-27 11:32:56,685 - Step_Defination.Diamond_Search -INFO - Clarity selected successfully
+2018-03-27 11:33:00,190 - Step_Defination.Diamond_Search -INFO - Test start Time1522130580190
+2018-03-27 12:00:15,986 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:00:16,016 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:00:18,599 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username ans password
+2018-03-27 12:02:35,290 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:02:35,329 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:02:38,073 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username ans password
+2018-03-27 12:06:02,643 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:06:02,687 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:06:05,268 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:08:08,642 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:08:08,679 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:08:11,245 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:08:21,342 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Retailer tab
+2018-03-27 12:08:21,344 - Step_Defination.Login_feature_step -INFO - Looking for zipcode in Resource File
+2018-03-27 12:08:24,066 - Step_Defination.Login_feature_step -INFO - Test Retailer Zipcode replaced successfully
+2018-03-27 12:16:17,613 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:16:17,646 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:16:20,185 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:16:30,250 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Retailer tab
+2018-03-27 12:16:30,252 - Step_Defination.Login_feature_step -INFO - Looking for zipcode in Resource File
+2018-03-27 12:16:32,854 - Step_Defination.Login_feature_step -INFO - Test Retailer Zipcode replaced successfully
+2018-03-27 12:16:42,611 - Step_Defination.Login_feature_step -INFO - Clicked on List View
+2018-03-27 12:16:44,612 - Step_Defination.Login_feature_step -INFO - Clicking on Diamond Details
+2018-03-27 12:16:46,857 - Step_Defination.Login_feature_step -INFO - Clicking on See in Person to book an appointment
+2018-03-27 12:20:00,197 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:20:00,236 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:20:01,007 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:20:34,588 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:20:34,596 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:23:02,618 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:23:02,652 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:23:05,404 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:23:15,077 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Retailer tab
+2018-03-27 12:23:15,078 - Step_Defination.Login_feature_step -INFO - Looking for zipcode in Resource File
+2018-03-27 12:23:17,561 - Step_Defination.Login_feature_step -INFO - Test Retailer Zipcode replaced successfully
+2018-03-27 12:23:27,288 - Step_Defination.Login_feature_step -INFO - Clicked on List View
+2018-03-27 12:23:29,290 - Step_Defination.Login_feature_step -INFO - Clicking on Diamond Details
+2018-03-27 12:23:31,540 - Step_Defination.Login_feature_step -INFO - Clicking on See in Person to book an appointment
+2018-03-27 12:23:33,820 - Step_Defination.Login_feature_step -INFO - Clicking on Continue to book an appointment
+2018-03-27 12:25:49,022 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:25:49,047 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:25:51,578 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:26:01,208 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Retailer tab
+2018-03-27 12:26:01,210 - Step_Defination.Login_feature_step -INFO - Looking for zipcode in Resource File
+2018-03-27 12:26:03,846 - Step_Defination.Login_feature_step -INFO - Test Retailer Zipcode replaced successfully
+2018-03-27 12:26:13,433 - Step_Defination.Login_feature_step -INFO - Clicked on List View
+2018-03-27 12:26:15,434 - Step_Defination.Login_feature_step -INFO - Clicking on Diamond Details
+2018-03-27 12:26:17,740 - Step_Defination.Login_feature_step -INFO - Clicking on See in Person to book an appointment
+2018-03-27 12:26:22,095 - Step_Defination.Login_feature_step -INFO - Fetching location from Resource File
+2018-03-27 12:28:43,642 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:28:43,680 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:28:46,471 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:28:56,153 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Retailer tab
+2018-03-27 12:28:56,155 - Step_Defination.Login_feature_step -INFO - Looking for zipcode in Resource File
+2018-03-27 12:28:58,874 - Step_Defination.Login_feature_step -INFO - Test Retailer Zipcode replaced successfully
+2018-03-27 12:29:08,422 - Step_Defination.Login_feature_step -INFO - Clicked on List View
+2018-03-27 12:29:10,422 - Step_Defination.Login_feature_step -INFO - Clicking on Diamond Details
+2018-03-27 12:29:12,767 - Step_Defination.Login_feature_step -INFO - Clicking on See in Person to book an appointment
+2018-03-27 12:29:17,029 - Step_Defination.Login_feature_step -INFO - Fetching location from Resource File
+2018-03-27 12:29:19,362 - Step_Defination.Login_feature_step -INFO - Clicked on Eastern Time,DALLAS
+2018-03-27 12:31:25,856 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:31:25,897 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:31:28,631 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:31:38,454 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Retailer tab
+2018-03-27 12:31:38,454 - Step_Defination.Login_feature_step -INFO - Looking for zipcode in Resource File
+2018-03-27 12:31:41,110 - Step_Defination.Login_feature_step -INFO - Test Retailer Zipcode replaced successfully
+2018-03-27 12:31:50,797 - Step_Defination.Login_feature_step -INFO - Clicked on List View
+2018-03-27 12:31:52,798 - Step_Defination.Login_feature_step -INFO - Clicking on Diamond Details
+2018-03-27 12:31:55,240 - Step_Defination.Login_feature_step -INFO - Clicking on See in Person to book an appointment
+2018-03-27 12:31:59,418 - Step_Defination.Login_feature_step -INFO - Fetching location from Resource File
+2018-03-27 12:32:01,640 - Step_Defination.Login_feature_step -INFO - Clicked on Eastern Time,DALLAS
+2018-03-27 12:32:13,481 - Step_Defination.Login_feature_step -INFO - Appointment booked 1st time via Rarecarat login
+2018-03-27 12:32:15,483 - Step_Defination.Login_feature_step -INFO - Alert! you have already booked 2 appointments
+2018-03-27 12:34:47,062 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:34:47,103 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:34:49,881 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:34:59,533 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Retailer tab
+2018-03-27 12:34:59,534 - Step_Defination.Login_feature_step -INFO - Looking for zipcode in Resource File
+2018-03-27 12:35:02,319 - Step_Defination.Login_feature_step -INFO - Test Retailer Zipcode replaced successfully
+2018-03-27 12:35:12,064 - Step_Defination.Login_feature_step -INFO - Clicked on List View
+2018-03-27 12:35:14,066 - Step_Defination.Login_feature_step -INFO - Clicking on Diamond Details
+2018-03-27 12:35:16,364 - Step_Defination.Login_feature_step -INFO - Clicking on See in Person to book an appointment
+2018-03-27 12:35:22,922 - Step_Defination.Login_feature_step -INFO - Fetching location from Resource File
+2018-03-27 12:35:25,655 - Step_Defination.Login_feature_step -INFO - Clicked on Eastern Time,DALLAS
+2018-03-27 12:37:01,943 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:37:01,974 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:37:04,687 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:37:12,943 - Step_Defination.Login_feature_step -INFO - Clicked on Filter by Retailer tab
+2018-03-27 12:37:12,944 - Step_Defination.Login_feature_step -INFO - Looking for zipcode in Resource File
+2018-03-27 12:37:15,288 - Step_Defination.Login_feature_step -INFO - Test Retailer Zipcode replaced successfully
+2018-03-27 12:37:25,481 - Step_Defination.Login_feature_step -INFO - Clicked on List View
+2018-03-27 12:37:27,481 - Step_Defination.Login_feature_step -INFO - Clicking on Diamond Details
+2018-03-27 12:37:29,816 - Step_Defination.Login_feature_step -INFO - Clicking on See in Person to book an appointment
+2018-03-27 12:37:36,336 - Step_Defination.Login_feature_step -INFO - Fetching location from Resource File
+2018-03-27 12:37:38,537 - Step_Defination.Login_feature_step -INFO - Clicked on Eastern Time,DALLAS
+2018-03-27 12:37:48,791 - Step_Defination.Login_feature_step -INFO - Appointment booked 2nd time via Rarecarat login
+2018-03-27 12:48:14,082 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:48:14,123 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:48:14,820 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:51:18,292 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:51:18,334 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:51:18,874 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 12:57:07,962 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 12:57:07,999 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 12:57:08,581 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password
+2018-03-27 13:00:40,430 - Step_Defination.Login_feature_step -INFO - Fetching URL and Opening the Url
+2018-03-27 13:00:40,479 - Step_Defination.Login_feature_step -INFO - Clicking on the Child Window
+2018-03-27 13:00:41,273 - Step_Defination.Login_feature_step -INFO - Clicked on login Provide username and password

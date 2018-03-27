@@ -7,6 +7,6 @@ Feature: Appointment Booking
 
     Examples: 
       | uname                      | password   | zipcode | location          | date_available | time_available | appointment_time |
-      | abhishekgaur4feb@gmail.com | Abhi@12345 |   74999 | EasternTimeDallas | NOW+6          | 4:30           |                1 |
-      | abhishekgaur4feb@gmail.com | Abhi@12345 |   74999 | EasternTimeDallas | NOW+6          | 12:30          |                2 |
+      | abhishekgaur4feb@gmail.com | Abhi@12345 |   74999 | EasternTimeDallas | NOW+3          | 4:30           |                1 |
+    	| abhishekgaur4feb@gmail.com | Abhi@12345 |   74999 | EasternTimeDallas | NOW+2          | 12:30          |                2 |
      # | abhishekgaur4feb@gmail.com | Abhi@12345 |   74999 | EasternTimeDallas | NOW+2          | 1:00           |                2 |

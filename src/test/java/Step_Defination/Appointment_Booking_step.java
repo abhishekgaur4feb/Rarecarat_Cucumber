@@ -27,7 +27,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 /**
- * @author Millennium_User_27
+ * @author Abhishek Gaur
  *
  */
 public class Appointment_Booking_step {
@@ -69,9 +69,13 @@ public class Appointment_Booking_step {
 		Login_page_object.Login.click();
 		
 		Thread.sleep(2000);
-		logger.info("Clicked on login Provide username ans password");
+		logger.info("Clicked on login Provide username and password");
+		Thread.sleep(4000);
 		
+		PageFactory.initElements(driver, Filter_By_Diamond_page_Cucumber.class);
+		Filter_By_Diamond_page_Cucumber.Search.click();
 		
+		Thread.sleep(2000);
 		//Appointment
 		//Initialization
 		PageFactory.initElements(driver, Appointment_Booking_page.class);
@@ -101,7 +105,7 @@ public class Appointment_Booking_step {
 		WebDriverWait wait = new WebDriverWait(driver, 15);
 		WebElement element = wait
 				.until(ExpectedConditions.elementToBeClickable(By
-						.xpath("html/body/div[2]/div/section/div[3]/div/div[4]/div[1]/div/div/div[1]/div[1]/div[2]/div[1]/span/span")));
+						.xpath("html/body/div[2]/div/section/section[1]/div[3]/div[5]/div[1]/div/div/div[1]/div[1]/div[2]/div[1]/span/span")));
 		//element.click();
 		
 		
@@ -122,10 +126,10 @@ public class Appointment_Booking_step {
 		Appointment_Booking_page.see_in_person.click();
 		Thread.sleep(2000);
 		
-		logger.info("Clicking on Continue to book an appointment");
-		Appointment_Booking_page.continue_booking.click();
-		Thread.sleep(4000);
-		System.out.println("Hi i am abhishek");
+		//logger.info("Clicking on Continue to book an appointment");
+		//Appointment_Booking_page.continue_booking.click();
+		//Thread.sleep(4000);
+		//System.out.println("Hi i am abhishek");
 		
 		//1st time appointment
 		

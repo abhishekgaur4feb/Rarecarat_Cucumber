@@ -18,7 +18,7 @@ public class My_Stuff_Page extends BaseClass{
 	@FindBy(how=How.XPATH, using="html/body/div[2]/div/section/div[3]/div/div[4]/div[1]/div/div/div[1]/div[1]/div[2]/div[1]/div[3]")
 	public static WebElement Add_favorite;
 	
-	@FindBy(how=How.XPATH, using=".//*[@id='divDiamondController']/header/div[3]/a[11]/span")
+	@FindBy(how=How.XPATH, using="html/body/div[2]/div/header/div[3]/a[10]/span")
 	public static WebElement My_stuff_button;
 	
 	@FindBy(how=How.XPATH, using=".//*[@id='myFavoriteItems']/div[2]/span[1]/i[2]")
