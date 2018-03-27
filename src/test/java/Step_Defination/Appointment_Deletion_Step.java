@@ -94,14 +94,16 @@ public class Appointment_Deletion_Step {
 	}
 
 	WebDriverWait wait1 = new WebDriverWait(driver, 15);
-	WebElement appointment_delete_confirm = wait
-			.until(ExpectedConditions.elementToBeClickable(Appointment_Deletion.Delete_Appointment_Confirm));
+	//WebElement appointment_delete_confirm = wait
+			//.until(ExpectedConditions.elementToBeClickable(Appointment_Deletion.Delete_Appointment_Confirm));
+	Thread.sleep(5000);
 	//((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", appointment_delete_confirm);
 	//appointment_delete_confirm.click();
-	Thread.sleep(3000);
 	Appointment_Deletion.Delete_Appointment_Confirm.click();
+	Thread.sleep(3000);
+	//Appointment_Deletion.Delete_Appointment_Confirm.click();
 	
-	Thread.sleep(2000);
+	//Thread.sleep(2000);
 
 	// Close the new window, if that window no more required
 	driver.close();
@@ -132,13 +134,13 @@ public class Appointment_Deletion_Step {
 	}
 
 	WebDriverWait wait1 = new WebDriverWait(driver, 15);
-	WebElement appointment_delete_confirm = wait
-			.until(ExpectedConditions.elementToBeClickable(Appointment_Deletion.Delete_Appointment_Confirm));
-	((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", appointment_delete_confirm);
-	appointment_delete_confirm.click();
+	//WebElement appointment_delete_confirm = wait
+			//.until(ExpectedConditions.elementToBeClickable(Appointment_Deletion.Delete_Appointment_Confirm));
+	Thread.sleep(5000);
+	//((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView();", appointment_delete_confirm);
+	//appointment_delete_confirm.click();
+	Appointment_Deletion.Delete_Appointment_Confirm.click();
 	
-	Thread.sleep(2000);
-
 	// Close the new window, if that window no more required
 	driver.close();
 
