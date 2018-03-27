@@ -70,7 +70,7 @@ public class Appointment_Booking_step {
 		
 		Thread.sleep(2000);
 		logger.info("Clicked on login Provide username and password");
-		Thread.sleep(4000);
+		
 		
 		PageFactory.initElements(driver, Filter_By_Diamond_page_Cucumber.class);
 		Filter_By_Diamond_page_Cucumber.Search.click();
@@ -141,12 +141,12 @@ public class Appointment_Booking_step {
 		System.out.println("Location fetched-->"+location);
 		if(location.contains("EasternTimeDallas")){
 			Appointment_Booking_page.select_location_eastern_dallas.click();
-			Thread.sleep(2000);
+			Thread.sleep(4000);
 			logger.info("Clicked on Eastern Time,DALLAS");
 			}
 		if(location.contains("TexasUnitedStates")){
 			Appointment_Booking_page.select_location_taxas_united_states.click();
-			Thread.sleep(2000);
+			Thread.sleep(4000);
 			logger.info("Clicked on Pacific Time, Dallas, TX, United States");
 			}
 		
@@ -242,12 +242,12 @@ public class Appointment_Booking_step {
 				System.out.println("Location fetched-->"+location);
 				if(location.contains("EasternTimeDallas")){
 					Appointment_Booking_page.select_location_eastern_dallas.click();
-					Thread.sleep(2000);
+					Thread.sleep(4000);
 					logger.info("Clicked on Eastern Time,DALLAS");
 					}
 				if(location.contains("TexasUnitedStates")){
 					Appointment_Booking_page.select_location_taxas_united_states.click();
-					Thread.sleep(2000);
+					Thread.sleep(4000);
 					logger.info("Clicked on Pacific Time, Dallas, TX, United States");
 					}
 				
